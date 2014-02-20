@@ -48,3 +48,4 @@ PhantomJS is free software/open source, and is distributed under the [BSD licens
 
 PhantomJS is created and maintained by [Ariya Hidayat](http://ariya.ofilabs.com/about) (Twitter: [@ariyahidayat](http://twitter.com/ariyahidayat)), with the help of [many contributors](https://github.com/ariya/phantomjs/contributors).
 
+PS: to build on CentOS and other systems, follow http://phantomjs.org/build.html
